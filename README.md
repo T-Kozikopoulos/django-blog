@@ -1,4 +1,4 @@
 # django-blog
 A full-fledged blog app made with Django
 
-blog-forum-test.herokuapp.com
+Demo: blog-forum-test.herokuapp.com
