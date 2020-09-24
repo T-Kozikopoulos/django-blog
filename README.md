@@ -1,7 +1,7 @@
 # django-blog
 A fully developed blog app made with Django.
 
-Visit now at [blog-site-test.herokuapp.com](blog-site-test.herokuapp.com).
+Visit now at blog-site-test.herokuapp.com.
 
 Homepage
 
